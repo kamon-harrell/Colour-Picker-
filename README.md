@@ -9,7 +9,7 @@ This challenge has different milestones.
 ## Core
 Stated briefly, the core goal is to create a simple but functional app that has a data, view and logic layer. The app will display color swatches, and that's about it!
 
-The core goals should be completed in full. 
+The core goals should be completed in full.
 
 ## Stretch
 The stretch goals can also be met if you choose to do so. Not completing the stretch goals does not disqualify you in any way nor will it lead to a disadvantage in comparison to other applicants.
@@ -67,3 +67,4 @@ In your email submission response to the test invitation from AngelList, please 
 Thanks and we look forward to your submission!
 
 ლ ( ◕  ᗜ  ◕ ) ლ
+=======
